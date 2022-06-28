@@ -1,0 +1,7 @@
+These are some of the additional documents that helped me
+
+https://pandas.pydata.org/docs/reference/api/pandas.DatetimeIndex.html
+
+https://stackoverflow.com/questions/50848454/pulling-most-frequent-combination-from-csv-columns
+
+https://stackoverflow.com/questions/36341484/get-day-name-from-weekday-int
